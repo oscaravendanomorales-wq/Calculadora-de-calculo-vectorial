@@ -41,9 +41,9 @@ pip install customtkinter numpy matplotlib sympy
 
 ### Ejecución
 
-1. Navega al directorio del proyecto:
+1. Navega al directorio del proyecto (rutas relativas):
 ```bash
-cd "c:\Users\ritog\Documents\Materias de 3er semestre\Calculo vectorial\Calculadora"
+cd "Calculadora"
 ```
 
 2. Ejecuta el archivo principal:
